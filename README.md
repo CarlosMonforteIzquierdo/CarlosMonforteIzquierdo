@@ -5,8 +5,7 @@
 
 ## About me
 - 👓 Junior Software Developer
-- 📚 Computer Science at [UOC](https://www.uoc.edu/en)
-- 🇪🇸  Castellón de la Plana 
+- 📚 Computer Science at [UOC](https://www.uoc.edu/en) 
 <br>
 
 ## Projects
