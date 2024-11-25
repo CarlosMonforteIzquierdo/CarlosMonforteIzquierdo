@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Carlos</a> 👋</h1>
 </div>
-<img src="https://shorturl.at/s3v6h">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHTDVF2VB0wjw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730278111508?e=1738195200&v=beta&t=2UvPF4cbLjUi-e69GDND1N7lIYhcfYmypSpBvZHgWzU">
 
 ## About me
 - 👓 Junior Software Developer
@@ -17,7 +17,7 @@
             <a href="https://github.com/CarlosMonforteIzquierdo/Monthly_DCA_Simulator" target="_blank"><img src="https://shorturl.at/IIhKZ" width="400" alt="Monthly DCA Simulator"></a>
             <p>
             <a href="https://github.com/CarlosMonforteIzquierdo/Monthly_DCA_Simulator" target="_blank">
-            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://st3.depositphotos.com/1007963/12566/i/450/depositphotos_125664136-stock-photo-wall-street-sign-in-new.jpg">
             </a>
             </p>
             <p>Web-based investment simulator that demonstrates the power of Dollar Cost Averaging (DCA) over time. Users can select popular stock tickers, specify a monthly investment amount, and define a start and end date to visualize how their investment would have grown over time. The application retrieves historical data by Yahoo Finance, calculates portfolio value and profit, and displays the results in an interactive chart.</p>
