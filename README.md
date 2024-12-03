@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Carlos</a> 👋</h1>
 </div>
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHTDVF2VB0wjw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730278111508?e=1738195200&v=beta&t=2UvPF4cbLjUi-e69GDND1N7lIYhcfYmypSpBvZHgWzU">
 
 ## About me
 - 👓 Junior Software Developer
