@@ -4,7 +4,8 @@
 
 ## About me
 - 👓 Junior Software Developer
-- 📚 Computer Science at [UOC](https://www.uoc.edu/en) 
+- 📚 Computer Science at [UOC](https://www.uoc.edu/en)
+- 🛠️ I'm currently developing a crypto-wallet tracker for the Solana blockchain
 <br>
 
 ## Projects
