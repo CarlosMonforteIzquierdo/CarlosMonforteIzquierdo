@@ -3,7 +3,7 @@
 </div>
 
 ## About me
-- 👓 Junior Software Developer
+- 👓 Software Developer
 - 📚 Computer Science at [UOC](https://www.uoc.edu/en)
 - 🛠️ I've been developing a crypto-wallet tracker for the Solana blockchain since January
 <br>
