@@ -3,7 +3,7 @@
 </div>
 
 ## About me
-- 👓 Software Developer Inter at [Stowlog](https://www.stowlog.com/)
+- 👓 Software Developer Intern at [Stowlog](https://www.stowlog.com/)
 - 📚 Computer Science at [UOC](https://www.uoc.edu/en)
 - 🛠️ Developed a crypto-wallet tracker for the Solana blockchain.
 <br>
