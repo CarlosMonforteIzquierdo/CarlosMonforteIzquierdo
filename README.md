@@ -14,7 +14,7 @@
         <td width="100%" colspan="2" align="center">
             <h3>Solana Crypto-Wallet Tracker</h3>
             <div align="center">
-                <a href="https://youtu.be/D5P6ZjIEmRQ" target="_blank">
+                <a href="https://youtu.be/D5P6ZjIEmRQ" target="blank">
                     <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="400px">
                 </a>
                 <p>
