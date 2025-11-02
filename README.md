@@ -3,9 +3,9 @@
 </div>
 
 ## About me
-- 👓 Software Developer
+- 👓 Software Developer Inter at [Stowlog](https://www.stowlog.com/)
 - 📚 Computer Science at [UOC](https://www.uoc.edu/en)
-- 🛠️ I've been developing a crypto-wallet tracker for the Solana blockchain since January
+- 🛠️ Developed a crypto-wallet tracker for the Solana blockchain.
 <br>
 
 ## Projects
