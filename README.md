@@ -5,7 +5,8 @@
 ## About me
 - 👓 Software Developer Intern at [Stowlog](https://www.stowlog.com/)
 - 📚 Computer Science at [UOC](https://www.uoc.edu/en)
-- 🛠️ Constantly looking for engineering tools. 
+- 📡 Zen browser user.
+- 💬 DMs always open for interesting code-related stuff. 
 <br>
 
 ## Projects
