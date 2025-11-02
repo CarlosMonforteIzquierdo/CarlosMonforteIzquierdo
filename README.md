@@ -22,6 +22,7 @@
                     A web application that allows users to track multiple Solana wallets movements in real-time.  
                     It displays token balances and buy/sell movements details with a graphic design.  
                     Built mainly with React, Firebase, Stripe and external Solana API's like Helius and Jupiter for robust blockchain data integration.
+                    Code is currently private, but feel free to ask.
                     <br>
                     Special mention to the Helius devs community on Discord. They solved all my doubts and problems. Even infra not related to their API.
                     <br>
